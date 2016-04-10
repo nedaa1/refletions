@@ -1,2 +1,5 @@
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 idont know
+How can you use the staging area to make sure you have one commit per logical change?
+add all other file to staging area
+and you don
